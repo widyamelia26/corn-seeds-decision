@@ -3,7 +3,6 @@ import numpy as np
 import pandas as pd
 import base64
 from numpy.linalg import norm
-import matplotlib.pyplot as plt
 
 # ---------- SET BACKGROUND GAMBAR ----------
 def set_background(image_file):
