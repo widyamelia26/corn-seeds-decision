@@ -201,10 +201,8 @@ def set_background(image_file):
     }}
 
     /* 🎯 Untuk ikon collapsed sidebar */
-    div[data-testid="stSidebarCollapsedControl"] svg path:first-of-type {{
-        fill: none !important;
-    }}
-    div[data-testid="stSidebarCollapsedControl"] svg path:last-of-type {{
+    /* Cari SVG spesifik sidebar (atau yang sesuai dengan class-nya) */
+    [data-testid="stSidebarCollapsedControl"] svg path:last-of-type {{
         fill: white !important;
     }}
 
