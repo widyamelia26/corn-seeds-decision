@@ -81,19 +81,19 @@ Tentukan nilai paling baik atau optimal untuk setiap kriteria, dengan contoh inp
 - Contoh Skala: Ideal “Daya Tumbuh” adalah 5.
 - Contoh Rentang: Ideal “Kadar Air” adalah 23.
 
-** 4. Pembobotan Kriteria**
+**4. Pembobotan Kriteria**
 
-a. Bobot dapat diatur manual atau menggunakan AHP.
-   * Jika menggunakan manual, total bobot tidak boleh melebihi 1. Selain itu, total bobot Core Factor (CF) harus lebih dari 50%. Jika tidak, sistem akan memberikan peringatan namun tetap melanjutkan perhitungan.
-   * Jika menggunakan AHP, sistem akan mengevaluasi konsistensi dan total bobot core factor. Total bobot Core Factor (CF) harus lebih dari 50%. Jika tidak, sistem akan memberikan peringatan namun tetap melanjutkan perhitungan.
+   a. Bobot dapat diatur manual atau menggunakan AHP.
+      * Jika menggunakan manual, total bobot tidak boleh melebihi 1. Selain itu, total bobot Core Factor (CF) harus lebih dari 50%. Jika tidak, sistem akan memberikan peringatan namun tetap melanjutkan perhitungan.
+      * Jika menggunakan AHP, sistem akan mengevaluasi konsistensi dan total bobot core factor. Total bobot Core Factor (CF) harus lebih dari 50%. Jika tidak, sistem akan memberikan peringatan namun tetap melanjutkan perhitungan.
+   
+   _**Catatan:** Jika perbandingan berpasangan tidak konsisten (CR > 0.1) atau bobot CF < 50%, sistem tetap akan memproses, tetapi hasilnya berpotensi tidak valid_
+   
+   b. Input Skor Alternatif
+      * Untuk tipe Skala, masukkan skor antara 1–5.
+      * Untuk tipe Rentang, masukkan nilai minimum dan maksimum.
 
-_**Catatan:** Jika perbandingan berpasangan tidak konsisten (CR > 0.1) atau bobot CF < 50%, sistem tetap akan memproses, tetapi hasilnya berpotensi tidak valid_
-
-b. Input Skor Alternatif
-   * Untuk tipe Skala, masukkan skor antara 1–5.
-   * Untuk tipe Rentang, masukkan nilai minimum dan maksimum.
-
-c. Analisa
+**5. Analisa**
 
 Klik tombol "Tentukan Varietas Jagung Terbaik dengan Profile Matching". Sistem akan menampilkan skor CF, SF, skor total, dan peringkat dari masing-masing alternatif.
 
