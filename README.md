@@ -6,6 +6,7 @@ Sistem ini merupakan aplikasi Sistem Pendukung Keputusan (SPK) berbasis Streamli
 *  Profile Matching
 *  Integrasi AHP dan TOPSIS
 *  Integrasi AHP dan Profile Matching
+
 Sistem ini fleksibel dan dapat disesuaikan dengan kebutuhan pengguna, termasuk jumlah alternatif, kriteria, jenis dan bobot kriteria, serta metode pengambilan keputusan yang digunakan.
 
 ## Cara Menjalankan Sistem
