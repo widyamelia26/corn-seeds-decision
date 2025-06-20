@@ -40,7 +40,7 @@ Tidak perlu instalasi apa pun. Anda bisa langsung menggunakan aplikasi secara pr
    
    Lakukan hal yang sama seperti di poin 1 untuk membandingkan setiap varietas jagung berdasarkan masing-masing kriteria.
    
-**4. Analisa**
+**3. Analisa**
    
    Klik tombol "Tentukan Varietas dengan AHP" untuk melihat hasil skor dan pemeringkatan alternatif.
 
